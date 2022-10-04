@@ -10,6 +10,7 @@
   
 
 - 📗 I'm currently improving my knowledge of MongoDB (as a developer) at [MongoDB University.](https://university.mongodb.com/courses/catalog?focus=Developer%20Courses)  
+- 📘 Taking advantage of the Apollo Odyssey knowledge tray at [Apollo Graph.](https://www.apollographql.com/tutorials/)  
   
 
 <br/>  
