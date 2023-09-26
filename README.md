@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Jéfferson Santos, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Jéfferson Santos, a full-time full-stack developer 👨‍💻 </div>  
   
 
-- 💻 I’m currently working as Frontend Developer at [Cloudinfo](https://cloudinfo.pt)  
+- 💻 I’m currently working as Mobile Developer at Nonius Hospitality Technology
   
 
 - 📗 I'm currently improving my knowledge of MongoDB (as a developer) at [MongoDB University.](https://university.mongodb.com/courses/catalog?focus=Developer%20Courses)  
